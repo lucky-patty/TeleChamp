@@ -11,3 +11,4 @@ Application Specification :
 2. Play the media from the server.
 3. Check for the new media list with the server every one minute and update itself.
 4. Restart the RKM Device with the specific time.
+5. Working Offline
