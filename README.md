@@ -5,7 +5,11 @@ This Application is running on RKM Device version III or above.
 
 Media Player Application
 
-Application Specification :
+## Application Requirement  
+
+1. Running on Android version 4.4 (KitKat) or above
+
+## Application Specification 
 
 1. Retrieve data from the server. 
 2. Play the media from the server or the device itself.
